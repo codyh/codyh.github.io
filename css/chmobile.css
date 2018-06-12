@@ -1,0 +1,72 @@
+div.content
+{
+	font-family: 'Leroy Lettering';
+	line-height: 140%;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+}
+
+.box
+{
+	background-color: rgba(192, 192, 192, 0.8);
+	border-top: 2px solid gray;
+	border-bottom: 2px solid gray;
+	border-right: 2px solid gray;
+	border-bottom-right-radius: 6px;
+	border-top-right-radius: 6px;
+	padding: 5px;
+	float: left;
+}
+
+h1
+{
+	font-family: 'Komika Axis';
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+}
+
+h1.box
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+li, p
+{
+	font-family: 'Leroy Lettering';
+	line-height: 140%;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	margin-bottom: 15px;
+}
+
+ul
+{
+	list-style: none;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+.colophon
+{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	font-family: 'Leroy Lettering';
+	font-size: x-small;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+}
+
+
+#twitter {
+}
+
+#talks {
+}
+
+#written {
+}
+
+#bio {
+}
